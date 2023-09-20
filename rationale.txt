@@ -1,0 +1,33 @@
+Things I did for Proximity
+-Combined proximity with contrast
+-Made menu items contained together in containers
+-Made Drink type items a list
+-Combined Price of the item title
+-Kept the menu tight, but still allows the viewer to diffentiate menu items by contrast.
+
+Rationale
+The ways I tried to implement proximity was to organize content that are related to each other. I ended up using other principles of design to help achieve
+this as well. I feel like you cannot achieve proximity (and filter unnecessary elements) without the use of contrast. To keep the menu columns separated,
+I made use to two dark colors. I did this to keep the menu united, but also different at the same time so the viewer doesn't wonder into the other column by 
+accident.
+
+I made the menu categorie tiele big with little margin on the elements, so that the reader wouldn't have to search far for the content they want.
+I also combined Mains & Specials together as a header since "Specials" by itself didn't have any meaning with the current description. If there was more 
+context with the description, I might of made them separate.
+
+For the menu items specfically, I initially wanted the title of the item to have the price at the very end of it, separated by a vertical bar, but I noticed after increasing
+font size, it didn't wrap the way I wanted too for longer titles (I would just made the title and price in the same tag, but I was too lazy). I also made small containers
+for each menu item so that people can easily look between each for item for a certain category.
+
+Drinks I did a little differently, it felt appropriate to just combined them all into one container based on their drink type.
+
+For header, I wanted it to be part of the menu, but the description made it feel off. If the description was absent, I definitely would of just slapped the logo inside the menu 
+along with the social media.
+
+I combined the h1 and tagline together to make like a makeshift site ID. and I added the social media right below it so that people would (hopefully) assume that the social media
+pertains to "Food Mart".
+
+
+
+Issues
+-Long text / headers didn't wrap in a way I wanted too.
